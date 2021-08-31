@@ -1,4 +1,4 @@
-/// Homework No. 2		Project No. 1
+/// Homework No. 2		Project No. 2
 /// File Name: temperature.cs
 /// @author: Joshua Um
 /// Date:  August 30, 2021
